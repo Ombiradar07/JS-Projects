@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display:flex;
+    justify-content: center;
+    background-color: orange;
+}
+
+.main{
+    margin: 100px ;
+    width: 80%;
+    text-align: center;
+  
+
+}
+.main h1,h3{
+    font-family: cursive,sans;
+}
+
+.buttons{
+    margin: 4px;
+    width: 100px;
+    height: 100px;
+}
+
+#red{
+    background: red;
+}
+#green{
+    background: green;
+}
+#lightskyblue{
+    background: lightskyblue;
+}
+#orange{
+    background: Orange;
+}
