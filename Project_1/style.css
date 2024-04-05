@@ -4,13 +4,14 @@ body{
 }
 
 .navbar{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     display:flex;
     justify-content: center;
     background-color: orange;
 }
 
 .main{
-    margin: 100px ;
+    margin: 100px auto;
     width: 80%;
     text-align: center;
   
