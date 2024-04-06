@@ -1,0 +1,28 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #td {
+    font-size: 40px;
+    background-color: orange;
+    padding: 40px 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+  .nav{
+    background-color:darkcyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+   
+  }
