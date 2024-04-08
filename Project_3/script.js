@@ -1,6 +1,4 @@
 const dateTime = document.getElementById('td');
-//const dateTime = document.querySelector('.td');
-
 
 setInterval(function () {
 
